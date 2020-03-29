@@ -17,5 +17,5 @@ for material in materialsFile:
 		if key not in lang:
 			lang[key] = ""
 langFile = open(str+".json", "w", encoding="utf-8")
-json.dump(lang, langFile, sort_keys=True, indent=4)
+json.dump(lang, langFile, ensure_ascii=False, indent=4, sort_keys=True)
 langFile.close()
