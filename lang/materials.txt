@@ -33,6 +33,9 @@ Blutonium
 Boron
 BoronNitride
 Brass
+Brick
+BrickNether
+BrickSeared
 Bronze
 Cadmium
 Carbon
@@ -51,6 +54,7 @@ ConductiveIron
 Constantan
 Copper
 Coralium
+CoraliumBrick
 Corrupted
 CrystalFlux
 Cupronickel
