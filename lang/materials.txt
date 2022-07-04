@@ -84,6 +84,7 @@ EnderEssence
 Enderium
 EnergeticAlloy
 Ethaxium
+EthaxiumBrick
 EvilMetal
 Ferroboron
 Fluix
