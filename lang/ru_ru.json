@@ -1,0 +1,38 @@
+{
+    "itemGroup.jaopca": ":ЖОПКА",
+
+    "block.jaopca.storage_blocks": "%s блок",
+    "item.jaopca.dusts": "%s пыль",
+    "item.jaopca.nuggets": "%s самородок",
+    "item.jaopca.tiny_dusts": "Крошечная кучка %s пыли",
+    "item.jaopca.small_dusts": "Небольшая кучка %s пыли",
+    "fluid.jaopca.molten": "Расплавленное %s",
+    "item.jaopca.molten": "Ведро %s",
+
+    "item.jaopca.mekanism_dirty_dusts": "Грязная %s пыль",
+    "item.jaopca.mekanism_clumps": "%s Глыба",
+    "item.jaopca.mekanism_shards": "%s Осколок",
+    "item.jaopca.mekanism_crystals": "%s Кристалл",
+    "slurry.jaopca.mekanism_dirty": "Грязная %s взвесь",
+    "slurry.jaopca.mekanism_clean": "Чистая %s взвесь",
+
+    "item.jaopca.flux_grits": "%s Зернистость",
+
+    "item.jaopca.silents_mechanisms_chunks": "%s Куски руды",
+
+    "item.jaopca.create_crushed_ores": "Дробленая %s руда",
+
+    "item.jaopca.crossroads_grits": "Необработанный Зернистостью %s",
+    "item.jaopca.crossroads_clumps": "%s Глыба",
+
+    "item.jaopca.bloodmagic_gravels": "%s Гравий",
+    "item.jaopca.bloodmagic_fragments": "%s Фрагмент руды",
+
+    "item.jaopca.electrodynamics_impuredusts": "Загрязненная пыль %s",
+    "item.jaopca.electrodynamics_crystals": "%s Кристалл",
+    "fluid.jaopca.electrodynamics_mineral_fluids": "%s Минеральная жидкость",
+    "item.jaopca.electrodynamics_mineral_fluids": "%s Ведро с минеральной жидкостью",
+
+    "item.jaopca.exnihilosequentia_pieces": "%s Кусок руды",
+    "item.jaopca.exnihilosequentia_chunks": "%s Кусок руды"
+}
